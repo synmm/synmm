@@ -18,6 +18,9 @@ I'm passionate about creating intuitive and performant user experiences.
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/philo_photo" />
 </a>
 
+🚀 **Projects :**
+<img src="https://img.shields.io/badge/synmm--launcher-🚧開発中🚧-e0a800?style=plastic" />
+
 ---
 
 ### **🛠️ Tech Stack**
@@ -51,45 +54,12 @@ I'm passionate about creating intuitive and performant user experiences.
 
 ---
 
-### **📈 GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=synmm&theme=nord&count_private=true&show_icons=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synmm&theme=nord&layout=compact" height="180" alt="language graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=synmm&theme=nord&radius=16&area=true&hide_title=true" alt="activity graph" />
-</div>
-
----
-
-### **🦖 github actions**
+### **🐍 GitHub Actions**
 
 <p align="left">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg" width="400" />
-<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmm/synmm/output-3d-contrib/day.svg" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="output/details.svg" width="400" />
-<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmm/synmm/output-3d-contrib/day.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/synmm/synmm/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/synmm/synmm/output/github-snake.svg" />
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/synmm/synmm/output/github-snake.svg" />
 </picture>
 </p>
-
-<p align="left" >
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-<source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmm/synmm/output-3d-contrib/day.svg" />
-</picture>
-</p>
-
-<p align="left">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-<source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmm/synmm/output-3d-contrib/day.svg" />
-</picture>
