@@ -1,6 +1,6 @@
 ### **🦜 About Me**
 
-#### **I'm synmmmm**
+#### **I'm synmm**
 
 Frontend Engineer specializing in building modern web applications for SaaS products.  
 I'm passionate about creating intuitive and performant user experiences.
@@ -54,11 +54,11 @@ I'm passionate about creating intuitive and performant user experiences.
 ### **📈 GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=synmmmm&theme=nord&count_private=true&show_icons=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synmmmm&theme=nord&layout=compact" height="180" alt="language graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=synmm&theme=nord&count_private=true&show_icons=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synmm&theme=nord&layout=compact" height="180" alt="language graph" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=synmmmm&theme=nord&radius=16&area=true&hide_title=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=synmm&theme=nord&radius=16&area=true&hide_title=true" alt="activity graph" />
 </div>
 
 ---
@@ -69,13 +69,13 @@ I'm passionate about creating intuitive and performant user experiences.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="output/metrics.base.svg" width="400" />
 <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmmmm/synmmmm/output-3d-contrib/day.svg" />
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmm/synmm/output-3d-contrib/day.svg" />
 </picture>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="output/details.svg" width="400" />
 <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmmmm/synmmmm/output-3d-contrib/day.svg" />
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmm/synmm/output-3d-contrib/day.svg" />
 </picture>
 </p>
 
@@ -83,7 +83,7 @@ I'm passionate about creating intuitive and performant user experiences.
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmmmm/synmmmm/output-3d-contrib/day.svg" />
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmm/synmm/output-3d-contrib/day.svg" />
 </picture>
 </p>
 
@@ -91,5 +91,5 @@ I'm passionate about creating intuitive and performant user experiences.
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
 <source media="(prefers-color-scheme: dark)" srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmmmm/synmmmm/output-3d-contrib/day.svg" />
+<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/synmm/synmm/output-3d-contrib/day.svg" />
 </picture>
