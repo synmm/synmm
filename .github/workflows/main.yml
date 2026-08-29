@@ -20,13 +20,13 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: output/metrics.base.svg
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
         with:
           filename: output/details.svg
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler
           plugin_languages: yes
@@ -40,7 +40,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: output/metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: >-
